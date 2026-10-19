@@ -1,10 +1,10 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro",
-    "FINGERPRINT": "google/caiman_beta/caiman:CANARY/ZP11.260918.007/16484274:user/release-keys",
+    "MODEL": "Pixel 6a",
+    "FINGERPRINT": "google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "caiman_beta",
-    "DEVICE": "caiman",
+    "PRODUCT": "bluejay_beta",
+    "DEVICE": "bluejay",
     "RELEASE": "17",
     "VERSION.RELEASE": "17",
     "ID": "ZP11.260918.007",
@@ -15,12 +15,12 @@
     "SECURITY_PATCH": "2026-10-05",
     "VERSION.SECURITY_PATCH": "2026-10-05",
     "ro.build.version.security_patch": "2026-10-05",
-    "DEVICE_INITIAL_SDK_INT": "34",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "34",
-    "ro.product.first_api_level": "34",
+    "DEVICE_INITIAL_SDK_INT": "32",
+    "VERSION.DEVICE_INITIAL_SDK_INT": "32",
+    "ro.product.first_api_level": "32",
     "ro.board.first_api_level": "32",
-    "ro.build.fingerprint": "google/caiman_beta/caiman:CANARY/ZP11.260918.007/16484274:user/release-keys",
+    "ro.build.fingerprint": "google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys",
     "ro.build.id": "ZP11.260918.007",
-    "ro.product.device": "caiman",
-    "ro.product.name": "caiman_beta"
+    "ro.product.device": "bluejay",
+    "ro.product.name": "bluejay_beta"
 }
