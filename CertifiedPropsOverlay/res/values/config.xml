@@ -7,11 +7,11 @@
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
-        <item>MODEL:Pixel 6a</item>
-        <item>FINGERPRINT:google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys</item>
+        <item>MODEL:Pixel 8</item>
+        <item>FINGERPRINT:google/shiba_beta/shiba:CANARY/ZP11.260918.007/16484274:user/release-keys</item>
         <item>BRAND:google</item>
-        <item>PRODUCT:bluejay_beta</item>
-        <item>DEVICE:bluejay</item>
+        <item>PRODUCT:shiba_beta</item>
+        <item>DEVICE:shiba</item>
         <item>RELEASE:17</item>
         <item>VERSION.RELEASE:17</item>
         <item>ID:ZP11.260918.007</item>
@@ -22,13 +22,13 @@
         <item>SECURITY_PATCH:2026-10-05</item>
         <item>VERSION.SECURITY_PATCH:2026-10-05</item>
         <item>ro.build.version.security_patch:2026-10-05</item>
-        <item>DEVICE_INITIAL_SDK_INT:32</item>
-        <item>VERSION.DEVICE_INITIAL_SDK_INT:32</item>
-        <item>ro.product.first_api_level:32</item>
+        <item>DEVICE_INITIAL_SDK_INT:34</item>
+        <item>VERSION.DEVICE_INITIAL_SDK_INT:34</item>
+        <item>ro.product.first_api_level:34</item>
         <item>ro.board.first_api_level:32</item>
-        <item>ro.build.fingerprint:google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys</item>
+        <item>ro.build.fingerprint:google/shiba_beta/shiba:CANARY/ZP11.260918.007/16484274:user/release-keys</item>
         <item>ro.build.id:ZP11.260918.007</item>
-        <item>ro.product.device:bluejay</item>
-        <item>ro.product.name:bluejay_beta</item>
+        <item>ro.product.device:shiba</item>
+        <item>ro.product.name:shiba_beta</item>
     </string-array>
 </resources>
